@@ -1,0 +1,7 @@
+C:\Users\ramya\Desktop\c# programming\Csharp programming\LT\bin\Debug\LT.exe
+C:\Users\ramya\Desktop\c# programming\Csharp programming\LT\bin\Debug\LT.pdb
+C:\Users\ramya\Desktop\c# programming\Csharp programming\LT\obj\Debug\LT.csproj.AssemblyReference.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\LT\obj\Debug\LT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\LT\obj\Debug\LT.csproj.CoreCompileInputs.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\LT\obj\Debug\LT.exe
+C:\Users\ramya\Desktop\c# programming\Csharp programming\LT\obj\Debug\LT.pdb
