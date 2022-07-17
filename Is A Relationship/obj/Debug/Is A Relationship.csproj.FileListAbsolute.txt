@@ -1,0 +1,7 @@
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Is A Relationship\bin\Debug\Is A Relationship.pdb
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Is A Relationship\obj\Debug\Is A Relationship.csproj.AssemblyReference.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Is A Relationship\obj\Debug\Is A Relationship.csproj.CoreCompileInputs.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Is A Relationship\obj\Debug\Is A Relationship.pdb
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Is A Relationship\bin\Debug\Is A Relationship.exe
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Is A Relationship\obj\Debug\Is A Relationship.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Is A Relationship\obj\Debug\Is A Relationship.exe
